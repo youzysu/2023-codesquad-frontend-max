@@ -24,7 +24,7 @@
 | 데이터베이스        |     데이터베이스 설치              |            [Gist](https://gist.github.com/youzysu/b3cab9dddc3c3475fd8f4a3598fe728e)                                                              |                                                                    [Notion](https://flash-watcher-226.notion.site/CS14-d3773a42c47e4323a274fff08c9ed855?pvs=4)       |
 |        |       PC방 관리자            |            [Gist](https://gist.github.com/youzysu/427cf3bb1c8caee5eb3f52561812bac3)                                                              |                                                                    [Notion](https://flash-watcher-226.notion.site/CS15-PC-56b4cce6aa774629ab3f3cb876ca460b?pvs=4)       |
 |       개발 환경, 버전관리    |    버전관리와 PR            |            [Repository](https://github.com/youzysu/common-mit)                                                              |                                                                    [Notion](https://flash-watcher-226.notion.site/CS16-PR-6ac37e723e524567a46a0e09528228d9?pvs=4)       |
-| 회고 | | | [CS16 과정 회고글](), [오픈 마이크 발표자료](https://docs.google.com/presentation/d/1gF8wwMawktnkTfeTx8Y7FUoUOef-K6OGYn4EujCBj-8/edit#slide=id.g1f5e40affc0_0_120)|
+| 회고 | | | [회고](), [오픈마이크 발표자료](https://docs.google.com/presentation/d/1gF8wwMawktnkTfeTx8Y7FUoUOef-K6OGYn4EujCBj-8/edit#slide=id.g1f5e40affc0_0_120)|
 
 
 <br />
