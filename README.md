@@ -58,10 +58,28 @@
 
 ## 👨‍👩‍👧‍👦 팀 프로젝트 (2023.06.19. ~ 2023.11.03.)
 
-### 카페 키오스크 (2023.06.19. ~ 2023.06.30. 2주)
-### 할일 관리 서비스 (2023.07.10. ~ 2023.07.21. 2주)
-### 이슈 관리 서비스 (2023.07.24 ~ 2023.08.18. 4주)
+|프로젝트| 기간 | Repository | PR |
+|:----:|:---:|:---------:|:-----:|
+| 미니 해커톤 | 5/15~5/19(1주) | [genre-wiki](https://github.com/jsh3418/genre-wiki)|                                                                                                    |
+| 카페 키오스크 | 6/19~6/30(2주) | [kiosk](https://github.com/codesquad-gwanaksan/kiosk-max)|
+| 할일 관리 서비스 | 7/10~7/21(2주) | [todo](https://github.com/todo-team-01/todo-max)|
+| 이슈 관리 서비스 | 7/24~8/18(4주) | [issue-tracker](https://github.com/issue-tracker-08/issue-tracker-max)| [이슈 트래커 1주차](https://github.com/codesquad-members-2023/issue-tracker-max/pull/15)|
+| | | | [이슈 트래커 2주차](https://github.com/codesquad-members-2023/issue-tracker-max/pull/36) |
+| | | | [이슈 트래커 3주차](https://github.com/codesquad-members-2023/issue-tracker-max/pull/56) |
+| | | | [이슈 트래커 4주차](https://github.com/codesquad-members-2023/issue-tracker-max/pull/77) |
+| 중고 거래 서비스 | 8/21~10/6(6주) | [second-hand-max-fe](https://github.com/masters2023-project-team05-second-hand/second-hand-max-fe) | [가지마켓 1주차](https://github.com/codesquad-members-2023/second-hand-max/pull/12) |
+| | | | [가지마켓 2주차](https://github.com/codesquad-members-2023/second-hand-max/pull/32) |
+| | | | [가지마켓 3주차](https://github.com/codesquad-members-2023/second-hand-max/pull/47) |
+| | | | [가지마켓 4주차](https://github.com/codesquad-members-2023/second-hand-max/pull/61) |
+| | | | [가지마켓 5주차](https://github.com/codesquad-members-2023/second-hand-max/pull/91) |
+| | | | [가지마켓 6주차](https://github.com/codesquad-members-2023/second-hand-max/pull/107) |
+|자율 프로젝트|10/10~(진행중)|[bookkbookk](https://github.com/bookkbookk/bookkbookk) | |
 
 <br />
 
 ## 🎙 미니 세미나
+
+| 주제                    | 발표자료              |
+| ----------------------- | ----------------- |
+| CORS | [브라우저는 왜 CORS로 우리를 괴롭힐까, 아니 도와줄까](https://docs.google.com/presentation/d/1nW8UdBO8p7t0Bkv9hbTCcy5GYc8gfkv2n4EHp15uji8/edit#slide=id.g24d4a23c05b_1_206) |
+| 성장 마인드셋 | [성장 마인드셋으로 개발 공부하기](https://docs.google.com/presentation/d/1pwwQJfTeVvLG8Dlr9DVPPhTjYatJW90-EJzK5urlldw/edit#slide=id.p)|
