@@ -2,6 +2,49 @@
 
 [코드스쿼드 프론트엔드 MAX 과정](https://www.codesquad.kr/masters)(2023.01.02. ~ 2023.11.03)을 기록합니다 🐾
 
+## 👨‍👩‍👦‍👦 팀 프로젝트 (2023.06.19. ~ 2023.11.03.)
+
+|프로젝트| 기간 | Repository | PR |
+|:----:|:---:|:---------:|:-----:|
+|자율 프로젝트|10/10~(진행중)|[bookkbookk](https://github.com/bookkbookk/bookkbookk) | |
+| 중고 거래 서비스 | 8/21~10/6(6주) | [second-hand-max-fe](https://github.com/masters2023-project-team05-second-hand/second-hand-max-fe) | [가지마켓 1주차](https://github.com/codesquad-members-2023/second-hand-max/pull/12) |
+| | | | [가지마켓 2주차](https://github.com/codesquad-members-2023/second-hand-max/pull/32) |
+| | | | [가지마켓 3주차](https://github.com/codesquad-members-2023/second-hand-max/pull/47) |
+| | | | [가지마켓 4주차](https://github.com/codesquad-members-2023/second-hand-max/pull/61) |
+| | | | [가지마켓 5주차](https://github.com/codesquad-members-2023/second-hand-max/pull/91) |
+| | | | [가지마켓 6주차](https://github.com/codesquad-members-2023/second-hand-max/pull/107) |
+| 이슈 관리 서비스 | 7/24~8/18(4주) | [issue-tracker](https://github.com/issue-tracker-08/issue-tracker-max)| [이슈 트래커 1주차](https://github.com/codesquad-members-2023/issue-tracker-max/pull/15)|
+| | | | [이슈 트래커 2주차](https://github.com/codesquad-members-2023/issue-tracker-max/pull/36) |
+| | | | [이슈 트래커 3주차](https://github.com/codesquad-members-2023/issue-tracker-max/pull/56) |
+| | | | [이슈 트래커 4주차](https://github.com/codesquad-members-2023/issue-tracker-max/pull/77) |
+| 할일 관리 서비스 | 7/10~7/21(2주) | [todo](https://github.com/todo-team-01/todo-max)|
+| 카페 키오스크 | 6/19~6/30(2주) | [kiosk](https://github.com/codesquad-gwanaksan/kiosk-max)|
+| 미니 해커톤 | 5/15~5/19(1주) | [genre-wiki](https://github.com/jsh3418/genre-wiki)|                                                                                                    |
+
+<br />
+
+## 🐥 웹 프론트엔드 Vanilla JS 클래스 (2023.03.06. ~ 2023.06.16.)
+
+- Vanila JS/TS 개인 프로젝트
+
+|      프로젝트      |          기간           |                                                     Repository                                                      |                                                               PR                                                                |
+|:------------------:|:-----------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
+| 네이버 뉴스 스탠드 |     5/22~6/16(4주)      |                       [fe-max--newsstand](https://github.com/youzysu/fe-max--newsstand)                       |                 [뉴스스탠드 1주차](https://github.com/codesquad-members-2023/fe-max--newsstand/pull/15)                  |
+|                    |                         |                                                                                                               |                 [뉴스스탠드 2주차](https://github.com/codesquad-members-2023/fe-max--newsstand/pull/23)                  |                                                 |                                                                                                   |
+|                    |                         |                                                                                                               |                 [뉴스 스탠드 3주차](https://github.com/codesquad-members-2023/fe-max--newsstand/pull/38)                 |                                                 |                                                                                                   |
+|                    |                         |                                                                                                               |                 [뉴스 스탠드 4주차](https://github.com/codesquad-members-2023/fe-max--newsstand/pull/45)                 |
+|   아마존 쇼핑몰    | 4/3-4/28, 5/8-5/12(5주) | [amazon-shopping-mall-site-clone-project](https://github.com/youzysu/amazon-shopping-mall-site-clone-project) |           [아마존 쇼핑몰 사이트 1주차](https://github.com/codesquad-members-2023/fe-max--shopping/pull/30)           |
+|                    |                         |                                                                                                               |           [아마존 쇼핑몰 사이트 2주차](https://github.com/codesquad-members-2023/fe-max--shopping/pull/53)           |
+|                    |                         |                                                                                                               |           [아마존 쇼핑몰 사이트 3주차](https://github.com/codesquad-members-2023/fe-max--shopping/pull/77)           |
+|                    |                         |                                                                                                               |          [아마존 쇼핑몰 사이트 4주차](https://github.com/codesquad-members-2023/fe-max--shopping/pull/101)           |
+|    우체통 찾기     |     3/27~3/31(1주)      |                         [fe-max--mailbox](https://github.com/youzysu/fe-max--mailbox)                         |            [빨간 우체통 마을 찾기](https://github.com/codesquad-members-2023/fe-max--mailbox/pull/8)            |
+|       가계부       |      3/6~3/24(3주)      |                    [vanila-js-money-book](https://github.com/youzysu/vanila-js-money-book)                    |     [학습 및 구현 계획 & 개발 환경 세팅 & 헤더 영역 UI](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/8)     |
+|                    |                         |                                                                                                               |                      [inputBar 영역](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/34)                      |                                                                                              |
+|                    |                         |                                                                                                               | [렌더링 고민 & 새로운 내역 입력 영역](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/50) |
+|                    |                         |                                                                                                               |            [월 이동 & 새로운 내역 입력](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/57)            |
+|                    |                         |                                                                                                               |               [메인 페이지](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/80)               |
+|                    |                         |                                                                                                               |               [내역 수정 & 리팩토링](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/84)                |
+
 <br />
 
 ## 🖥 CS16 (2023.01.02. ~ 2023.02.28.)
@@ -26,53 +69,6 @@
 | 개발 환경, 버전관리     | 버전관리와 PR     | [Repo](https://github.com/youzysu/common-mit)                            | [Notion](https://www.notion.so/CS16-PR-6ac37e723e524567a46a0e09528228d9?pvs=21)                                                                                                                                                                                                    | git command, local, remote, origin, upstream, merge, rebase, pull                |
 | 회고                    |                   |                                                                          | [회고](https://zoey-dev-log.vercel.app/blog/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C%202023%20%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88%20CS16%20%ED%9A%8C%EA%B3%A0), [오픈 마이크 발표자료](https://docs.google.com/presentation/d/1gF8wwMawktnkTfeTx8Y7FUoUOef-K6OGYn4EujCBj-8/edit#slide=id.g1f5e40affc0_0_120) |                                                                                  |
 
-
-<br />
-
-
-## 🐥 웹 프론트엔드 Vanilla JS 클래스 (2023.03.06. ~ 2023.06.16.)
-
-
-- VanilaJS 개인 프로젝트
-
-|      프로젝트      |          기간           |                                                     Repository                                                      |                                                               PR                                                                |                     리뷰어                      |                                            학습 / Task                                            |
-|:------------------:|:-----------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
-|       가계부       |      3/6~3/24(3주)      |                    [vanila-js-money-book](https://github.com/youzysu/vanila-js-money-book)                    |     [학습 및 구현 계획 & 개발 환경 세팅 & 헤더 영역 UI](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/8)     |                                                 |    [Notion](https://flash-watcher-226.notion.site/FE01-59b2930930d040e9a55a02a119c81e87?pvs=4)    |
-|                    |                         |                                                                                                               |                      [inputBar 영역](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/34)                      |                                                 |                                                                                                   |
-|                    |                         |                                                                                                               | [렌더링 고민 & 새로운 내역 입력 영역](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/50) |                                                 |                                                                                                   |
-|                    |                         |                                                                                                               |            [월 이동 & 새로운 내역 입력](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/57)            |                                                 |                                                                                                   |
-|                    |                         |                                                                                                               |               [메인 페이지](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/80)               |                                                 |                                                                                                   |
-|                    |                         |                                                                                                               |               [내역 수정 & 리팩토링](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/84)                |                                                 |                                                                                                   |
-|    우체통 찾기     |     3/27~3/31(1주)      |                         [fe-max--mailbox](https://github.com/youzysu/fe-max--mailbox)                         |            [빨간 우체통 마을 찾기](https://github.com/codesquad-members-2023/fe-max--mailbox/pull/8)            |     [happyGyu](https://github.com/happyGyu)     |      [Notion](https://flash-watcher-226.notion.site/f0f418765fc64e6a96b5a8321ef7ac4d?pvs=4), [회고](https://zoey-dev-log.vercel.app/blog/%EB%82%B4%20%EC%9D%B8%EC%83%9D%20%EC%B2%AB%20%ED%8E%98%EC%96%B4%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D,%20%EB%B9%A8%EA%B0%84%20%EC%9A%B0%EC%B2%B4%ED%86%B5%20%EC%B0%BE%EA%B8%B0%20%EB%AF%B8%EC%85%98)       |
-|   아마존 쇼핑몰    | 4/3-4/28, 5/8-5/12(5주) | [amazon-shopping-mall-site-clone-project](https://github.com/youzysu/amazon-shopping-mall-site-clone-project) |           [아마존 쇼핑몰 사이트 1주차](https://github.com/codesquad-members-2023/fe-max--shopping/pull/30)           |     [happyGyu](https://github.com/happyGyu)     |                                                                                                   |
-|                    |                         |                                                                                                               |           [아마존 쇼핑몰 사이트 2주차](https://github.com/codesquad-members-2023/fe-max--shopping/pull/53)           | [GleamingStar](https://github.com/GleamingStar) |                                                                                                   |
-|                    |                         |                                                                                                               |           [아마존 쇼핑몰 사이트 3주차](https://github.com/codesquad-members-2023/fe-max--shopping/pull/77)           | [GleamingStar](https://github.com/GleamingStar) |                                                                                                   |
-|                    |                         |                                                                                                               |          [아마존 쇼핑몰 사이트 4주차](https://github.com/codesquad-members-2023/fe-max--shopping/pull/101)           | [GleamingStar](https://github.com/GleamingStar) |                                                                                                   |
-| 네이버 뉴스 스탠드 |     5/22~6/16(4주)      |                       [fe-max--newsstand](https://github.com/youzysu/fe-max--newsstand)                       |                 [뉴스스탠드 1주차](https://github.com/codesquad-members-2023/fe-max--newsstand/pull/15)                  |                                                 | [GitHub Issues Tab](https://github.com/youzysu/fe-max--newsstand/issues?q=is%3Aissue+is%3Aclosed) |
-|                    |                         |                                                                                                               |                 [뉴스스탠드 2주차](https://github.com/codesquad-members-2023/fe-max--newsstand/pull/23)                  |                                                 |                                                                                                   |
-|                    |                         |                                                                                                               |                 [뉴스 스탠드 3주차](https://github.com/codesquad-members-2023/fe-max--newsstand/pull/38)                 |                                                 |                                                                                                   |
-|                    |                         |                                                                                                               |                 [뉴스 스탠드 4주차](https://github.com/codesquad-members-2023/fe-max--newsstand/pull/45)                 |                                                 |                                                                                                   |
-
-<br />
-
-## 👨‍👩‍👧‍👦 팀 프로젝트 (2023.06.19. ~ 2023.11.03.)
-
-|프로젝트| 기간 | Repository | PR |
-|:----:|:---:|:---------:|:-----:|
-| 미니 해커톤 | 5/15~5/19(1주) | [genre-wiki](https://github.com/jsh3418/genre-wiki)|                                                                                                    |
-| 카페 키오스크 | 6/19~6/30(2주) | [kiosk](https://github.com/codesquad-gwanaksan/kiosk-max)|
-| 할일 관리 서비스 | 7/10~7/21(2주) | [todo](https://github.com/todo-team-01/todo-max)|
-| 이슈 관리 서비스 | 7/24~8/18(4주) | [issue-tracker](https://github.com/issue-tracker-08/issue-tracker-max)| [이슈 트래커 1주차](https://github.com/codesquad-members-2023/issue-tracker-max/pull/15)|
-| | | | [이슈 트래커 2주차](https://github.com/codesquad-members-2023/issue-tracker-max/pull/36) |
-| | | | [이슈 트래커 3주차](https://github.com/codesquad-members-2023/issue-tracker-max/pull/56) |
-| | | | [이슈 트래커 4주차](https://github.com/codesquad-members-2023/issue-tracker-max/pull/77) |
-| 중고 거래 서비스 | 8/21~10/6(6주) | [second-hand-max-fe](https://github.com/masters2023-project-team05-second-hand/second-hand-max-fe) | [가지마켓 1주차](https://github.com/codesquad-members-2023/second-hand-max/pull/12) |
-| | | | [가지마켓 2주차](https://github.com/codesquad-members-2023/second-hand-max/pull/32) |
-| | | | [가지마켓 3주차](https://github.com/codesquad-members-2023/second-hand-max/pull/47) |
-| | | | [가지마켓 4주차](https://github.com/codesquad-members-2023/second-hand-max/pull/61) |
-| | | | [가지마켓 5주차](https://github.com/codesquad-members-2023/second-hand-max/pull/91) |
-| | | | [가지마켓 6주차](https://github.com/codesquad-members-2023/second-hand-max/pull/107) |
-|자율 프로젝트|10/10~(진행중)|[bookkbookk](https://github.com/bookkbookk/bookkbookk) | |
 
 <br />
 
