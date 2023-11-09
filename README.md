@@ -45,6 +45,13 @@
 |                    |                         |                                                                                                               |               [메인 페이지](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/80)               |
 |                    |                         |                                                                                                               |               [내역 수정 & 리팩토링](https://github.com/codesquad-members-2023/fe-max--wise-wallet/pull/84)                |
 
+## 🎙 미니 세미나
+
+| 주제                    | 발표자료              |
+| ----------------------- | ----------------- |
+| CORS | [브라우저는 왜 CORS로 우리를 괴롭힐까, 아니 도와줄까](https://docs.google.com/presentation/d/1nW8UdBO8p7t0Bkv9hbTCcy5GYc8gfkv2n4EHp15uji8/edit#slide=id.g24d4a23c05b_1_206) |
+| 성장 마인드셋 | [성장 마인드셋으로 개발 공부하기](https://docs.google.com/presentation/d/1pwwQJfTeVvLG8Dlr9DVPPhTjYatJW90-EJzK5urlldw/edit#slide=id.p)|
+
 <br />
 
 ## 🖥 CS16 (2023.01.02. ~ 2023.02.28.)
@@ -69,12 +76,4 @@
 | 개발 환경, 버전관리     | 버전관리와 PR     | [Repo](https://github.com/youzysu/common-mit)                            | [Notion](https://www.notion.so/CS16-PR-6ac37e723e524567a46a0e09528228d9?pvs=21)                                                                                                                                                                                                    | git command, local, remote, origin, upstream, merge, rebase, pull                |
 | 회고                    |                   |                                                                          | [회고](https://zoey-dev-log.vercel.app/blog/%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C%202023%20%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88%20CS16%20%ED%9A%8C%EA%B3%A0), [오픈 마이크 발표자료](https://docs.google.com/presentation/d/1gF8wwMawktnkTfeTx8Y7FUoUOef-K6OGYn4EujCBj-8/edit#slide=id.g1f5e40affc0_0_120) |                                                                                  |
 
-
 <br />
-
-## 🎙 미니 세미나
-
-| 주제                    | 발표자료              |
-| ----------------------- | ----------------- |
-| CORS | [브라우저는 왜 CORS로 우리를 괴롭힐까, 아니 도와줄까](https://docs.google.com/presentation/d/1nW8UdBO8p7t0Bkv9hbTCcy5GYc8gfkv2n4EHp15uji8/edit#slide=id.g24d4a23c05b_1_206) |
-| 성장 마인드셋 | [성장 마인드셋으로 개발 공부하기](https://docs.google.com/presentation/d/1pwwQJfTeVvLG8Dlr9DVPPhTjYatJW90-EJzK5urlldw/edit#slide=id.p)|
